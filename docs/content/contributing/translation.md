@@ -18,7 +18,7 @@ You can sign up at [Crowdin](https://crowdin.com/project/qownnotes/invite) and
 **[QOwnNotes on Crowdin](https://crowdin.com/project/qownnotes/invite)**
 
 Just drop me a message on Crowdin or as a [GitHub issue](https://github.com/pbek/QOwnNotes/issues)
-if you want to translate QOwnNotes to a new language.
+if you want to translate QOwnNotes <b>to a new language </b$.
 
 If you want to add new translations to existing languages you can do so right away.
 
@@ -54,8 +54,6 @@ Please consider a few things while working on the project:
    `Note` should definitely always have just one translation.
 
 5) For plural please add the appropriate translation each in the corresponding block.
-
-   ![screenshot](../assets/img/crowdin/screenshot-4.png)
 
 6) The `%1` tags need to be written without a space, in LTR languages you can either insert the tags
     from the original or write them into your translation.
